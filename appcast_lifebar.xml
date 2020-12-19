@@ -1,12 +1,10 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-<channel>
-<item>
-  <title>Version 1.0.2</title>
-  <sparkle:releaseNotesLink>https://example.com/release_notes_test.html</sparkle:releaseNotesLink>
-  <pubDate>Mon, 28 Dec 2020 14:30:00 +0500</pubDate>
-  <sparkle:version>1.0.2</sparkle:version>
- <enclosure url="https://example.com/downloads/app.zip.or.dmg.or.tar.etc"
-               sparkle:version="1.0.2"/>
-</item>
+  <channel>
+    <item>
+      <title>Version 1.0.2</title>
+      <pubDate>Mon, 28 Dec 2020 14:30:00 +0500</pubDate>
+      <enclosure url="https://example.com/downloads/app.zip.or.dmg.or.tar.etc"
+               sparkle:version="1.0.2" type="application/octet-stream" />
+    </item>
   </chanel>
 </rss>
