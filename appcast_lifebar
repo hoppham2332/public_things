@@ -1,0 +1,7 @@
+<item>
+  <title>Version 1.0.2</title>
+  <sparkle:releaseNotesLink>https://example.com/release_notes_test.html</sparkle:releaseNotesLink>
+  <pubDate>Mon, 28 Dec 2020 14:30:00 +0500</pubDate>
+  <sparkle:version>1.0.2</sparkle:version>
+  <link>https://example.com/manual_update_info.html</link>
+</item>
