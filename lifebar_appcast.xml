@@ -3,8 +3,8 @@
     <item>
       <title>Version 1.0.2</title>
       <pubDate>Mon, 28 Dec 2020 14:30:00 +0500</pubDate>
-      <enclosure url="https://example.com/downloads/app.zip.or.dmg.or.tar.etc"
-               sparkle:version="1.0.2" type="application/octet-stream" />
+      <sparkle:version>1.2.4</sparkle:version>
+      <link>https://example.com/manual_update_info.html</link>
     </item>
   </channel>
 </rss>
